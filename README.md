@@ -1,4 +1,12 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Alex+👋;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</h1>
+
 # 🚀 Bienvenido a mi Perfil de GitHub 🎉
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlexAlvarezAlmendros&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AlexAlvarezAlmendros?label=Followers&style=social" alt="GitHub followers" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexAlvarezAlmendros&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -115,3 +123,8 @@ Destacados reconocimientos académicos y consolidación profesional en el campo 
 > **¿Quieres colaborar o tienes alguna propuesta?**  
 > ¡Estoy abierto a nuevas oportunidades y proyectos!  
 > _Gracias por visitar mi perfil._
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</p>
