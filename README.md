@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Alex+👋;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
-# 🚀 Bienvenido a mi Perfil de GitHub 🎉
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexAlvarezAlmendros&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/AlexAlvarezAlmendros?label=Followers&style=social" alt="GitHub followers" />
