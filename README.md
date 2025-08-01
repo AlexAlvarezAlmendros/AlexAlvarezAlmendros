@@ -19,8 +19,8 @@ Desarrollador **Full Stack** con más de **5 años de experiencia** creando apli
 ## 👨‍💻 Sobre Mí
 
 - 📍 **Ubicación:** España
-- 🏢 **Actualmente en:** Capitole & Bella Aurora Labs
-- 💡 **Especialidad:** Full Stack Development, DevOps, IoT, Arquitectura de Microservicios
+- 🏢 **Actualmente en:** Capitole
+- 💡 **Especialidad:** Full Stack Development
 - 🚚 **Metodologías:** Agile, Scrum, Kanban, KISS
 - 🤝 **Colaborador y mentor** en equipos multidisciplinares
 
@@ -79,7 +79,7 @@ Desarrollador **Full Stack** con más de **5 años de experiencia** creando apli
 ### 🌟 Bella Aurora Labs (05/2024 - 09/2024)
 **Desarrollador Full Stack Web**
 
-- Desarrollo de aplicaciones web con Blazor y .NET 8.
+- Desarrollo de aplicaciones web internas con Blazor y .NET 8.
 - Mejoré el rendimiento un 40% mediante optimización de código y migraciones a .NET 8.
 - Implementé autenticación segura con JWT.
 
