@@ -44,26 +44,8 @@ Desarrollador **Full Stack** con más de **5 años de experiencia** creando apli
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/></td>
   </tr>
-</table>
-
-### 🎨 Frontend
-- **Lenguajes:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Librerías:** Blazor, React
-- **Diseño:** Responsive Design, UX/UI, Figma
-
-### 💻 Backend
-- **Lenguajes:** Node.js, Python, C#
-- **Frameworks:** Express.js, Blazor, FastAPI, Django
-- **Bases de Datos:** MySQL, MongoDB, SQL Server, PostgreSQL
-
-### 🚀 DevOps & Cloud
-- **Herramientas:** Docker, GitHub Actions, Azure DevOps
-- **Servicios en la Nube:** AWS, Azure, Vercel, Netlify
-
-### 📚 Otros
-- **Control de Versiones:** Git
-- **Metodologías:** Agile, Scrum, Kanban, KISS
-
+</table
+  
 ---
 
 ## 💼 Experiencia Profesional
@@ -93,29 +75,11 @@ Desarrollador **Full Stack** con más de **5 años de experiencia** creando apli
 
 ---
 
-## 🎓 Educación
-
-### ENTI-UB (09/2019 - 06/2021)
-**DAM-VIOD Desarrollo de aplicaciones multiplataforma**
-
-Destacados reconocimientos académicos y consolidación profesional en el campo tecnológico.
-
----
-
 ## 📬 Contacto
 
 - 📧 **Email:** [alexalmendrosal@gmail.com](mailto:alexalmendrosal@gmail.com)
 - 💼 **LinkedIn:** [Alex Alvarez Almendros](https://www.linkedin.com/in/alexalvarezalmendros)
 - 🖥️ **GitHub:** [AlexAlvarezAlmendros](https://github.com/AlexAlvarezAlmendros)
-
----
-
-## ✨ Más Sobre Mí
-
-- 🎸 Amante de la música y la producción.
-- 🧠 Apasionado por el aprendizaje continuo.
-- 🤖 Experiencia en proyectos IoT y automatización industrial.
-- 📈 Comprometido con la optimización y la innovación.
 
 ---
 
