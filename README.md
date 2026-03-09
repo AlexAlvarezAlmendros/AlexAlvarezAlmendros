@@ -16,6 +16,16 @@ Desarrollador **Full Stack** con más de **5 años de experiencia** creando apli
 
 ---
 
+## 👨‍💻 Mis proyectos
+
+- 🏠 **HomeScrapper:** Web scraper para extraer anuncios de viviendas de Idealista
+- 📋 **ClicaptCRM:** CRM web simple y fácil de utilizar
+- 📧 **MailSender:** Aplicación web para enviar campañas de email marketing
+- 🐾 **KyPaw:** App para la gestión y el cuidado de mascotas
+- 🎧 **Spufify:** Grabador de audio en tiempo real para Spotify en Windows usando WASAPI Loopback
+
+---
+
 ## 👨‍💻 Sobre Mí
 
 - 📍 **Ubicación:** España
