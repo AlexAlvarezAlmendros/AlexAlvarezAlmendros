@@ -7,10 +7,6 @@
   <img src="https://img.shields.io/github/followers/AlexAlvarezAlmendros?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexAlvarezAlmendros&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ¡Hola! Soy **Alex Alvarez Almendros** 👋  
 Desarrollador **Full Stack** con más de **5 años de experiencia** creando aplicaciones web, móviles y de escritorio. Me apasiona resolver desafíos complejos y construir soluciones robustas, escalables y seguras, aplicando las últimas tecnologías y las mejores prácticas de desarrollo.
 
