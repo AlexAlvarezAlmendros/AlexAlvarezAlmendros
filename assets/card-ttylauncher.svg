@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210" role="img" aria-label="TTYLauncher: Launcher Android en forma de terminal: sin iconos, sin cuadrícula. Escribes «open spotify» y se abre.">
+<title>TTYLauncher: Launcher Android en forma de terminal: sin iconos, sin cuadrícula. Escribes «open spotify» y se abre.</title>
+<defs><clipPath id="c-ttylauncher"><rect width="440" height="210" rx="14"/></clipPath><linearGradient id="s-ttylauncher" x1="0" x2="1"><stop offset="0" stop-color="#ccff00" stop-opacity="0"/><stop offset="0.5" stop-color="#ccff00"/><stop offset="1" stop-color="#ccff00" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#c-ttylauncher)">
+<rect width="440" height="210" fill="#0d0d0b"/>
+<rect x="0" y="0" width="4" height="210" fill="#ccff00"/>
+<rect x="-160" y="0" width="160" height="2" fill="url(#s-ttylauncher)"><animate attributeName="x" values="-160;440;440" keyTimes="0;0.45;1" dur="5s" begin="0.0s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="0.75" y="0.75" width="438.5" height="208.5" rx="14" fill="none" stroke="#23231f" stroke-width="1.5"/>
+<text y="36" font-family="'Space Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="12" xml:space="preserve" style="white-space:pre" ><tspan x="26.0 33.4" fill="#ccff00">01</tspan><tspan x="40.8 48.2 55.6 63.0 70.4 77.8 85.2 92.6 100.0" fill="#8a887f"> / KOTLIN</tspan></text>
+<rect x="311.0" y="19" width="107.0" height="24" rx="12" fill="none" stroke="#23231f" stroke-width="1.5"/>
+<circle cx="325.0" cy="31" r="3.2" fill="#ccff00"/><circle cx="325.0" cy="31" r="3.2" fill="none" stroke="#ccff00" stroke-width="1.5"><animate attributeName="r" values="3.2;9.600000000000001" dur="1.6s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="1.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text y="35.5" font-family="'Space Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="11" xml:space="preserve" style="white-space:pre" ><tspan x="335.0 342.0 349.0 356.0 363.0 370.0 377.0 384.0 391.0 398.0 405.0" fill="#f2f0ea">OPEN SOURCE</tspan></text>
+<text x="26" y="84" font-family="'Syne','Archivo Black','Arial Black','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="27" font-weight="800" fill="#f2f0ea">TTYLauncher</text>
+<text x="26" y="116" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#b5b3aa">Launcher Android en forma de terminal: sin iconos,</text>
+<text x="26" y="137" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#b5b3aa">sin cuadrícula. Escribes «open spotify» y se abre.</text>
+<rect x="26" y="168" width="60.0" height="22" rx="4" fill="#151512" stroke="#23231f"/>
+<text y="183" font-family="'Space Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="11" xml:space="preserve" style="white-space:pre" ><tspan x="35.0 42.0 49.0 56.0 63.0 70.0" fill="#b5b3aa">Kotlin</tspan></text>
+<rect x="94.0" y="168" width="67.0" height="22" rx="4" fill="#151512" stroke="#23231f"/>
+<text y="183" font-family="'Space Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="11" xml:space="preserve" style="white-space:pre" ><tspan x="103.0 110.0 117.0 124.0 131.0 138.0 145.0" fill="#b5b3aa">Compose</tspan></text>
+<rect x="169.0" y="168" width="60.0" height="22" rx="4" fill="#151512" stroke="#23231f"/>
+<text y="183" font-family="'Space Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="11" xml:space="preserve" style="white-space:pre" ><tspan x="178.0 185.0 192.0 199.0 206.0 213.0" fill="#b5b3aa">Termux</tspan></text>
+<text x="414" y="186" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#ccff00">↗<animate attributeName="opacity" values="1;0.35;1" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></text>
+</svg>
